@@ -1,3 +1,17 @@
+/*     __ _  __ ___   _(_)_ __  ___    __| |_      ___ __ ___
+ / _` |/ _` \ \ / / | '_ \/ __|  / _` \ \ /\ / / '_ ` _ \
+| (_| | (_| |\ V /| | | | \__ \ | (_| |\ V  V /| | | | | |
+ \__, |\__,_| \_/ |_|_| |_|___/  \__,_| \_/\_/ |_| |_| |_|
+ |___/
+*/
+
+
+
+
+
+
+
+
 /* See LICENSE file for copyright and license details. */
 
 /*
@@ -5,7 +19,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hack Nerd Font:pixelsize=11:antialias=true:autohint=true";
+static char *font = "Hack Nerd Font:pixelsize=14:antialias=true:autohint=true";
 static char *font2[] = { "JoyPixels:pixelsize=10:antialias=true:autohint=true" };
 static int borderpx = 2;
 
